@@ -1,0 +1,465 @@
+
+---فایلهای بارگیری شده---
+فایلهای درون ریزی برای:دموی اصلی با موفقیت بارگیری شد!
+حداکثر زمان اجرای اولیه =120
+اطلاعات فایل ها :
+Site URL = http://localhost
+فایل اطلاعات = C:\xampp\htdocs/wp-content/themes/royal-shop-child/hwp_inc/import_files/content.xml
+فایل ابزارک = C:\xampp\htdocs/wp-content/themes/royal-shop-child/hwp_inc/import_files/widget.wie
+فایل های سفارشی ساز= C:\xampp\htdocs/wp-content/themes/royal-shop-child/hwp_inc/import_files/customizer.dat
+Redux فایل ها:
+تعریف نشده!
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-09__07-21-50" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095" (رسانه)
+[ERROR] Failed to import "badwslo9cr051-scaled" (رسانه)
+[ERROR] Failed to import "vgkor8x3iemc" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095-scaled-2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-09__07-21-50" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095" (رسانه)
+[ERROR] Failed to import "badwslo9cr051-scaled" (رسانه)
+[ERROR] Failed to import "vgkor8x3iemc" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095-scaled-2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-09__07-21-50" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095" (رسانه)
+[ERROR] Failed to import "badwslo9cr051-scaled" (رسانه)
+[ERROR] Failed to import "vgkor8x3iemc" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095-scaled-2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-09__07-21-50" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095" (رسانه)
+[ERROR] Failed to import "badwslo9cr051-scaled" (رسانه)
+[ERROR] Failed to import "vgkor8x3iemc" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095-scaled-2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-09__07-21-50" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095" (رسانه)
+[ERROR] Failed to import "badwslo9cr051-scaled" (رسانه)
+[ERROR] Failed to import "vgkor8x3iemc" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095-scaled-2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-09__07-21-50" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095" (رسانه)
+[ERROR] Failed to import "badwslo9cr051-scaled" (رسانه)
+[ERROR] Failed to import "vgkor8x3iemc" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095-scaled-2" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[ERROR] Failed to import "p9" (رسانه)
+[ERROR] Failed to import "p15" (رسانه)
+[ERROR] Failed to import "p4" (رسانه)
+[ERROR] Failed to import "p13 (3) (1)" (رسانه)
+[ERROR] Failed to import "p23" (رسانه)
+[ERROR] Failed to import "p29" (رسانه)
+[ERROR] Failed to import "p31" (رسانه)
+[ERROR] Failed to import "p32" (رسانه)
+[ERROR] Failed to import "p35" (رسانه)
+[ERROR] Failed to import "p37" (رسانه)
+[ERROR] Failed to import "p40" (رسانه)
+[ERROR] Failed to import "p47" (رسانه)
+[ERROR] Failed to import "p48" (رسانه)
+[ERROR] Failed to import "p49" (رسانه)
+[ERROR] Failed to import "sp1" (رسانه)
+[ERROR] Failed to import "sp2" (رسانه)
+[ERROR] Failed to import "sp4" (رسانه)
+[ERROR] Failed to import "sp6" (رسانه)
+[ERROR] Failed to import "sp7" (رسانه)
+[ERROR] Failed to import "sp9" (رسانه)
+[ERROR] Failed to import "sp10" (رسانه)
+[ERROR] Failed to import "cat3" (رسانه)
+[ERROR] Failed to import "cat5" (رسانه)
+[ERROR] Failed to import "cat10" (رسانه)
+[ERROR] Failed to import "p1 (1)" (رسانه)
+[ERROR] Failed to import "p2 (1)" (رسانه)
+[ERROR] Failed to import "ab (1)" (رسانه)
+[ERROR] Failed to import "b2" (رسانه)
+[ERROR] Failed to import "test1" (رسانه)
+[ERROR] Failed to import "test2" (رسانه)
+[ERROR] Failed to import "m4" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-04__10-44-23" (رسانه)
+[ERROR] Failed to import "logo-royal-2" (رسانه)
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-06-09__07-21-50" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095" (رسانه)
+[ERROR] Failed to import "badwslo9cr051-scaled" (رسانه)
+[ERROR] Failed to import "vgkor8x3iemc" (رسانه)
+[ERROR] Failed to import "InShot_20210606_150941095-scaled-2" (رسانه)
+
+
+---درحال درون ریزی ابزارک ---
+سایدبار اصلی : 
+
+نوشته‌های تازه - بدون عنوان - درون ریزیز شده است
+فهرست محصولات - محصولات پرفروش - درون ریزیز شده است
+ابر برچسب - تگ محصولات - درون ریزیز شده است
+گالری - گالری - درون ریزیز شده است
+Royal Shop : Testimonial Widget - بدون عنوان - درون ریزیز شده است
+
+سایدبار ثانویه : 
+
+Royal Shop : About Us widget - درباره ما - درون ریزیز شده است
+Royal Shop : Multi Product slider widget - محصولات ویژه - درون ریزیز شده است
+تصویر - اپل واچ - درون ریزیز شده است
+Royal Shop : Post Slide widget - مطالب وبلاگ - درون ریزیز شده است
+
+دومین ابزارک در بالای فوتر : 
+
+تصویر - بدون عنوان - درون ریزیز شده است
+
+سومین ابزارک در زیر فوتر : 
+
+فهرست محصولات - Products - درون ریزیز شده است
+
+ناحیه ابزارک فوتر1 : 
+
+متن - فروشگاه رویال - درون ریزیز شده است
+متن - تماس با ما از طریق - درون ریزیز شده است
+
+ناحیه ابزارک فوتر2 : 
+
+متن - درباره ما - درون ریزیز شده است
+متن - دسترسی سریع - درون ریزیز شده است
+
+ناحیه ابزارک فوتر3 : 
+
+فهرست محصولات - محصولات ویژه - درون ریزیز شده است
+
+ناحیه ابزارک فوتر4 : 
+
+متن - تماس با ما - درون ریزیز شده است
+متن - شعبه های دیگر - درون ریزیز شده است
+
+سایدبار ووکامرس : 
+
+آخرین دیدگاه‌ها - بدون عنوان - درون ریزیز شده است
+فیلتر محصولات براساس قیمت - فیلتر براساس قیمت: - درون ریزیز شده است
+
+
+
+---درون ریزی تنظیمات سفارشی ساز---
+وارد کردن تنظیمات سفارشی ساز به پایان رسید!
+
+---ocdi/after_import---
+
